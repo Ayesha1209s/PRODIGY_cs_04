@@ -1,0 +1,4 @@
+keylog.txt
+*.log
+__pycache__/
+*.pyc
